@@ -1,0 +1,384 @@
+﻿@using Microsoft.Extensions.Configuration;
+@using Microsoft.AspNetCore.Http
+@inject IConfiguration Configuration;
+
+@{
+    ViewBag.Title = "PatientDietCreate";
+    string apiUrl = Configuration.GetValue<string>("WebAPIBaseUrl");
+}
+
+<!-- PAGE-HEADER -->
+<div class="page-header">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="#"><i class="fe fe-file-text mr-1"></i>Diet</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Diet-Create</li>
+    </ol>
+    <div class="ml-auto">
+        <a href="~/Diet/DietList" class="btn btn-primary btn-icon btn-sm text-white mr-2">
+            <span>
+                <i class="fe fe-plus"></i>
+            </span>Diet List
+        </a>
+        <a href="~/Dietician/AdvancePatientDietCreate" class="btn btn-primary btn-icon btn-sm text-white mr-2">
+            <span>
+                <i class="fe fe-plus"></i>
+            </span>advance Diet Create
+        </a>
+
+    </div>
+</div>
+<!-- PAGE-HEADER END -->
+
+<div class="row">
+    <div class="col-md">
+        <div class="card overflow-hidden">
+            <form action="#" role="form" name="myForm" class="validate" id="formPost">
+                <div class="card-header">
+                    <div class="col-md-6">
+                        <h3 class="card-title">
+                            Diet Create
+                        </h3>
+                    </div>
+                </div>
+                <div class="card-body">
+                  
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label class="form-label">Patient Name</label>
+                                <input type="text" class="form-control" id="patientname" placeholder="Patient Name">
+                            </div>
+                            <div class="form-group">
+                                <label class="form-label">IP No</label>
+                                <input type="text" class="form-control" id="ipno" placeholder="IP No">
+                            </div>
+                            <div class="form-group">
+                                <div class="form-group overflow-hidden">
+                                    <label class="form-label">Select Floor</label>
+                                    <select class="form-control" id="Floors">
+                                        <option value="SelectFloor">Select Floor</option>
+                                        <option value="GroundFloor">Ground Floor</option>
+                                        <option value="FirstFloor">First Floor</option>
+                                        <option value="SecondFloor">Second Floor</option>
+                                        <option value="ThirdFloor">Third Floor</option>
+                                        <option value="FourthFloor">Fourth Floor</option>
+                                        <option value="FifthFloor">Fifth Floor</option>
+                                        <option value="SixthFloor">Sixth Floor</option>
+                                        <option value="SeventhFloor">Seventh Floor</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="form-group overflow-hidden">
+                                <label>Bed No</label>
+                                <select class="form-control select2 w-100" id="bedno" multiple="multiple" data-placeholder="Select a State">
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label class="form-label">Hospital</label>
+                                <select class="form-control" id="hospitalid"></select>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label class="form-label">Type Of Patient</label>
+                                <select id="TypeofPatient" class="form-control">
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label class="form-label">Service Type</label>
+                                <select class="form-control" id="servicetype">
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label class="form-label">Diet Type</label>
+                                <select id="Diettype" class="form-control">
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label class="form-label">Plan Status</label>
+                                <select class="form-control" id="planstatus">
+                                    <option>Select Plan Status</option>
+                                    <option value="On-Bed">On-Bed</option>
+                                    <option value="Plan Discharge">Plan Discharge</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label class="form-label">Special Instruction</label>
+                                <textarea type="text" class="form-control" id="specification" placeholder="Special Instruction.."></textarea>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12 text-center">
+                            <button type="button" id="btnSave" class="btn btn-radius btn-success">Update</button>
+                            <a type="button" href="/Dietician/PatientDietCreate" class="btn btn-radius btn-danger">Reset</a>
+                        </div>
+                    </div>
+                   
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section scripts{
+    <script>
+        PatientList()
+        function PatientList(Id) {
+            var opt = '';
+            $.ajax({
+                type: "GET",
+                url: "@apiUrl/api/PatientType/GetPatientTypeList",
+                contentType: "application/json; charset=utf-8",
+                headers: {
+                    "authorization": "Bearer @Context.Session.GetString("TokenTxt")"
+                },
+                dataType: "json",
+                success: function (res) {
+                    var options = [];
+                    options.push('<option value="">Select Type of Patient</option>');
+                    for (var i = 0; i < res.data.length; i++) {
+                        if (Id == res.data[i].patientTypeId) {
+                            opt = 'selected'
+                        } else {
+                            opt = '';
+                        }
+                        options.push('<option value="' + res.data[i].patientTypeId + '" ' + opt + '>' + res.data[i].typeOfPatient + '</option>');
+                    }
+                    $("#TypeofPatient").html(options.join(''));
+                },
+                error: function (data) {
+                    if (data.status == 401) {
+                        window.location.replace('/Message/TokenExpire');
+                    } else if (data.status == 403) {
+                        window.location.replace('/Message/Unauthorize');
+                    }
+                }
+            });
+        }
+
+        ServiceTypeList()
+        function ServiceTypeList(Id) {
+            var opt = '';
+            $.ajax({
+                type: "GET",
+                url: "@apiUrl/api/FoodServiceType/GetFoodServiceTypeList",
+                contentType: "application/json; charset=utf-8",
+                headers: {
+                    "authorization": "Bearer @Context.Session.GetString("TokenTxt")"
+                },
+                dataType: "json",
+                success: function (res) {
+                    var options = [];
+                    options.push('<option value="">Select Service Type</option>');
+                    for (var i = 0; i < res.data.length; i++) {
+                        if (Id == res.data[i].foodServiceTypeId) {
+                            opt = 'selected'
+                        } else {
+                            opt = '';
+                        }
+                        options.push('<option value="' + res.data[i].foodServiceTypeId + '" ' + opt + '>' + res.data[i].foodServiceTypeName + '</option>');
+                    }
+                    $("#servicetype").html(options.join(''));
+                },
+                error: function (data) {
+                    if (data.status == 401) {
+                        window.location.replace('/Message/TokenExpire');
+                    } else if (data.status == 403) {
+                        window.location.replace('/Message/Unauthorize');
+                    }
+                }
+            });
+        }
+        GetDietList()
+        function GetDietList(Id) {
+            var opt = '';
+            $.ajax({
+                type: "GET",
+                url: "@apiUrl/api/DietType/GetDietTypeList",
+                contentType: "application/json; charset=utf-8",
+                headers: {
+                    "authorization": "Bearer @Context.Session.GetString("TokenTxt")"
+                },
+                dataType: "json",
+                success: function (res) {
+
+                    var options = [];
+                    options.push('<option value="">Select Diet Type</option>');
+                    for (var i = 0; i < res.data.length; i++) {
+                        if (Id == res.data[i].dietTypeId) {
+                            opt = 'selected'
+                        } else {
+                            opt = '';
+                        }
+                        options.push('<option value="' + res.data[i].dietTypeId + '" ' + opt + '>' + res.data[i].dietTypeName + '</option>');
+                    }
+                    $("#Diettype").html(options.join(''));
+                },
+                error: function (data) {
+                    if (data.status == 401) {
+                        window.location.replace('/Message/TokenExpire');
+                    } else if (data.status == 403) {
+                        window.location.replace('/Message/Unauthorize');
+                    }
+                }
+            });
+        }
+        GetHospitalList()
+        function GetHospitalList(Id) {
+            var opt = '';
+            $.ajax({
+                type: "GET",
+                url: "@apiUrl/api/Hospital/GetHospitalByUserId/" + @Context.Session.GetInt32("UserId"),
+                contentType: "application/json; charset=utf-8",
+                headers: {
+                    "authorization": "Bearer @Context.Session.GetString("TokenTxt")"
+                },
+                dataType: "json",
+                success: function (res) {
+                    var options = [];
+                    for (var i = 0; i < res.data.length; i++) {
+                        if (Id == res.data[i].hospitalMasterid) {
+                            opt = 'selected'
+                        } else {
+                            opt = '';
+                        }
+                        options.push('<option value="' + res.data[i].hospitalMasterid + '" ' + opt + '>' + res.data[i].hospitalName + '</option>');
+                    }
+                    $("#hospitalid").html(options.join(''));
+                },
+                error: function (data) {
+                    if (data.status == 401) {
+                        window.location.replace('/Message/TokenExpire');
+                    } else if (data.status == 403) {
+                        window.location.replace('/Message/Unauthorize');
+                    }
+                }
+            });
+        }
+
+        GetBedList()
+        function GetBedList(Id) {
+            var opt = '';
+            $.ajax({
+                type: "GET",
+                url: "@apiUrl/api/Bed/GetHospitalWiseBedList/" + @Context.Session.GetInt32("HospitalMasterid"),
+                contentType: "application/json; charset=utf-8",
+                headers: {
+                    "authorization": "Bearer @Context.Session.GetString("TokenTxt")"
+                },
+                dataType: "json",
+                success: function (res) {
+                    var options = [];
+                    options.push('<option value="">Select Bed </option>');
+                    for (var i = 0; i < res.data.length; i++) {
+                        if (Id == res.data[i].bedMasterId) {
+                            opt = 'selected'
+                        } else {
+                            opt = '';
+                        }
+                        options.push('<option value="' + res.data[i].bedMasterId + '" ' + opt + '>' + res.data[i].bedNo + '</option>');
+                    }
+                    $("#bedno").html(options.join(''));
+                },
+                error: function (data) {
+                    if (data.status == 401) {
+                        window.location.replace('/Message/TokenExpire');
+                    } else if (data.status == 403) {
+                        window.location.replace('/Message/Unauthorize');
+                    }
+                }
+            });
+        }
+        
+
+        $("#bedno").change(function () {
+            var bedId = $("#bedno").val()
+            $.ajax({
+                type: "GET",
+                url: '@apiUrl/api/DIETMaster/GetDietbyBedid/' + bedId,
+                dataType: "json",
+                success: function (data) {
+            
+                    $('#patientname').val(data.data[0].patientName);
+                    $('#ipno').val(data.data[0].ip);
+                    PatientList(data.data[0].patientTypeId);
+                    ServiceTypeList(data.data[0].foodServiceTypeId);
+                    GetDietList(data.data[0].dietTypeId);
+                    $('#specification').val(data.data[0].specialInstruction);
+                    $('#planstatus').val(data.data[0].patientStatus);
+                    $('#Floors').val(data.data[0].floorsName);
+
+                },
+                error: function (data) {
+                    if (data.status == 401) {
+                        window.location.replace('/Message/TokenExpire');
+                    } else if (data.status == 403) {
+                        window.location.replace('/Message/Unauthorize');
+                    }
+                }
+            });
+        });
+
+        $(function () {
+
+            $("#btnSave").click(function (e) {
+
+                if (!document.getElementById("formPost").checkValidity()) {
+                    e.preventDefault();
+                }
+                else {
+                    var model = {
+                        patientName: $.trim($("#patientname").val()),
+                        hospitalMasterid: parseInt($("#hospitalid").val()),
+                        floorsName: $.trim($("#Floors").val()),
+                        bedId: parseInt($("#bedno").val()),
+                        patientTypeId: parseInt($("#TypeofPatient").val()),
+                        foodServiceTypeId: parseInt($("#servicetype").val()),
+                        dietTypeId: parseInt($("#Diettype").val()),
+                        specialInstruction: $.trim($("#specification").val()),
+                        ip: $.trim($("#ipno").val()),
+                        patientStatus: $.trim($("#planstatus").val()),
+                        createdBy: @Context.Session.GetInt32("UserId"),
+                    }
+                    $.ajax({
+                        type: "POST",
+                        url: "@apiUrl/api/DIETMaster/DietCreateByDietician",
+                        data: JSON.stringify(model),
+                        contentType: "application/json; charset=utf-8",
+                        headers: {
+                            "authorization": "Bearer @Context.Session.GetString("TokenTxt")"
+                        },
+                        dataType: "json",
+                        success: function (data, statusText, xhr) {
+                            if (xhr.status === 200) {
+                                sweetAlert({
+                                    html: true,
+                                    icon: "success",
+                                    title: "Diet",
+                                    text: "Successfully Created!",
+                                    type: "success"
+                                });
+                            } else if (data.status === "duplicate") {
+                                sweetAlert("Validation Alert!", data.responseMsg, "warning");
+                            } else if (data.status === "error") {
+                                sweetAlert("Validation Alert!", data.responseMsg, "warning");
+                            } else {
+                                sweetAlert("Validation Alert!", "Something unexpected!", "warning");
+                            }
+                        },
+                        error: function (data) {
+                            if (data.status == 401) {
+                                window.location.replace('/Message/TokenExpire');
+                            } else if (data.status == 403) {
+                                window.location.replace('/Message/Unauthorize');
+                            } else if (data.status == 400) {
+                                sweetAlert("Validation Alert!", "Please check input data!", "warning");
+                            }
+                        }
+                    });
+                }
+            });
+        });
+    </script>
+}

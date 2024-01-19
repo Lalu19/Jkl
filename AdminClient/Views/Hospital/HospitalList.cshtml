@@ -1,0 +1,157 @@
+﻿@using Microsoft.Extensions.Configuration;
+@using Microsoft.AspNetCore.Http
+@inject IConfiguration Configuration;
+
+@{
+    ViewBag.Title = "Hospital";
+    string apiUrl = Configuration.GetValue<string>("WebAPIBaseUrl");
+}
+
+<!-- PAGE-HEADER -->
+<div class="page-header">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="#"><i class="fe fe-file-text mr-1"></i>Admin Console</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Hospital List</li>
+    </ol>
+    <div class="ml-auto">
+        <a href="~/Hospital/HospitalCreate" class="btn btn-primary btn-icon btn-sm text-white mr-2">
+            <span>
+                <i class="fe fe-plus"></i>
+            </span> Hospital Create
+        </a>
+
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12 col-lg-12">
+        <div class="card">
+            <div class="card-header">
+                <div class="card-title">Hospital List</div>
+            </div>
+            <div class="card-body">
+                <div class="table-responsive">
+                    <table id="hospital" class="table table-striped table-bordered nowrap dataTable no-footer dtr-inline" style="width:100%">
+                        <thead>
+                            <tr>
+                                <th>Hospital Name</th>
+                                <th>Address 1</th>
+                                <th>Address 2</th>
+                                <th>Contact Person</th>
+                                <th>Contact Person No</th>
+                                <th>No Of Floor(s)</th>
+                                <th>Hospital Logo</th>
+                                <th>Action</th>
+                            </tr>
+                        </thead>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section scripts{
+    <script>
+
+        //List
+        loadHospital()
+        function loadHospital() {
+             var table = $('#hospital').DataTable();
+             table.destroy();
+             table = $('#hospital').dataTable({
+                "paginationType": "full_numbers",
+                "dom": 'Bfrtip',
+                "buttons": ['copy', 'csv', 'excel', 'pdf', 'print'],
+                "searching": true,
+                "paging": true,
+                "sort": true,
+                "info": true,
+                "ajax": {
+                    "url": '@apiUrl/api/Hospital/GetHospitalList',
+                    "type": "GET",
+                    "dataType": "json",
+                    "headers": {
+                        "authorization": "Bearer @Context.Session.GetString("TokenTxt")"
+                    },
+                    "error": function (data) {
+                        if (data.status == 401) {
+                            window.location.replace('/Message/TokenExpire');
+                        } else if (data.status == 403) {
+                            window.location.replace('/Message/Unauthorize');
+                        }
+                    }
+                },
+                "order": [],
+                "columns": [
+                    { "data": "hospitalName", "orderable": true },
+                    { "data": "address1", "orderable": true },
+                    { "data": "address2", "orderable": true },
+                    { "data": "contactPerson", "orderable": true },
+                    { "data": "contactPersonNo", "orderable": true },
+                    { "data": "floorNo", "orderable": true },
+                    {
+                        "render": function (data, type, row) {
+                            if (row.hospitalLogo === '')
+                                return '';
+                            else
+                                return '<img style="MAX-WIDTH: 70PX; margin-left: 28px;" src="' + row.hospitalLogo + '"/>'
+                        }
+                    },
+                    {
+                        "render": function (data, type, row) {
+                            return '<a class="btn btn-sm btn-primary" href="../hospital/HospitalEdit?hospitalMasterid=' + row.hospitalMasterid + '"><i class="fa fa-edit"></i></a>' + '&nbsp&nbsp<button class="btn btn-sm btn-danger" data-target="#delete" data-id=' + row.hospitalMasterid + ' data-title="Delete"><i class="fa fa-trash"></i></button>';
+
+                        }
+                    }
+                ]
+            });
+        }
+
+        //Delete
+        $('#hospital tbody').on('click', 'button[data-target="#delete"]', function () {
+            var id = $(this).data('id');
+            swal({
+                html: true,
+                title: "Are you sure?",
+                text: "You will not be able to recover this data!",
+                type: "warning",
+                showCancelButton: true,
+                confirmButtonColor: "#DD6B55",
+                confirmButtonText: "Yes, confirm it!",
+                closeOnConfirm: false
+            }, function () {
+                $.ajax({
+                    type: "GET",
+                    url: "@apiUrl/api/Hospital/DeleteHospital/" +id+"/"+@Context.Session.GetInt32("UserId"),
+                    contentType: "application/json; charset=utf-8",
+                    headers: {
+                       "authorization": "Bearer @Context.Session.GetString("TokenTxt")"
+                    },
+                    dataType: "json",
+                    success: function (data, statusText, xhr) {
+                        if (xhr.status == 200) {
+                            $('#hospital').DataTable().ajax.reload(null, false);
+                            sweetAlert({
+                                html: true,
+                                title: "Hospital",
+                                text: "Successfully deleted!",
+                                type: "success"
+                            });
+                        } else if (xhr.status == 202) {
+                            sweetAlert("Validation Alert!", data.responseMsg, "warning");
+                        } else {
+                            sweetAlert("Validation Alert!", "Something unexpected!", "warning");
+                        }
+                    },
+                    error: function (data) {
+                        if (data.status == 401) {
+                            window.location.replace('/Message/TokenExpire');
+                        } else if (data.status == 403) {
+                            window.location.replace('/Message/Unauthorize');
+                        }
+                    }
+                });
+            });
+        });
+    </script>
+}

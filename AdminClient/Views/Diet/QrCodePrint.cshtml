@@ -1,0 +1,88 @@
+﻿@using Microsoft.Extensions.Configuration;
+@using Microsoft.AspNetCore.Http
+@inject IConfiguration Configuration;
+
+@{
+    ViewBag.Title = "Diet";
+
+}
+
+
+<!-- PAGE-HEADER -->
+<div class="page-header">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="#"><i class="fe fe-file-text mr-1"></i> Diet</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Diet-List</li>
+    </ol>
+    <div class="ml-auto">
+        <a href="~/Diet/DietCreate" class="btn btn-primary btn-icon btn-sm text-white mr-2">
+            <span>
+                <i class="fe fe-plus"></i>
+            </span> Print QrCode
+        </a>
+
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-12 col-lg-12">
+        <div class="card">
+            <div class="card-header">
+                <div class="card-title">File export Datatable</div>
+            </div>
+            <div class="card-body">
+                <div class="table-responsive">
+                    <table id="diet" class="table table-striped table-bordered text-nowrap w-100">
+                        <thead>
+                            <tr>
+                                <th>Qr Code</th>
+                                <th>Bed No</th>
+                            </tr>
+                        </thead>
+                        <tbody id="tb_die"></tbody>
+
+                    </table>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+@section scripts{
+    <script>
+        loadDiet()
+        function loadDiet() {
+            $.ajax({
+                type: "GET",
+                url: "/Diet/GenerateQrCodeList",
+                headers: {
+
+                },
+                success: function (data, statusText, xhr) {
+                    console.log(data)
+                    if (xhr.status == 200) {
+                        var x = '';
+                        for (var i = 0; i < data['data'].length; i++) {
+                            x = x + "<tr><td><img width='100px' height='100px' src='" + data['data'][i]['qrCode'] + "'/></td><td>'" + data['data'][i]['bedNo'] + "'<br>'" + data['data'][i]['patientName'] + "'</td></tr>"
+                        }
+
+                        $('#tb_die').html(x);
+                    }
+                },
+                error: function (data) {
+                    if (data.status == 401) {
+                        window.location.replace('/Message/TokenExpire');
+                    } else if (data.status == 403) {
+                        window.location.replace('/Message/Unauthorize');
+                    }
+                }
+            });
+        }
+
+
+    </script>
+
+}

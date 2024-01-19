@@ -1,0 +1,298 @@
+﻿@using Microsoft.Extensions.Configuration;
+@using Microsoft.AspNetCore.Http
+@inject IConfiguration Configuration;
+
+@{
+    ViewBag.Title = "Bed";
+    string apiUrl = Configuration.GetValue<string>("WebAPIBaseUrl");
+}
+
+<!-- PAGE-HEADER -->
+<div class="page-header">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="#"><i class="fe fe-file-text mr-1"></i>Bed</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Bed Create</li>
+    </ol>
+    <div class="ml-auto">
+        <a href="~/Bed/BedCreate" class="btn btn-primary btn-icon btn-sm text-white mr-2">
+            <span>
+                <i class="fe fe-plus"></i>
+            </span>Prefix Bed Create
+        </a>
+        <a href="~/Bed/BedList" class="btn btn-primary btn-icon btn-sm text-white mr-2">
+            <span>
+                <i class="fe fe-plus"></i>
+            </span>Bed View
+        </a>
+    </div>
+</div>
+<!-- PAGE-HEADER END -->
+
+<div class="row">
+    <div class="col-md">
+        <div class="card overflow-hidden">
+            <div class="card-header">
+                <h3 class="card-title">Bed Create</h3>
+            </div>
+            <div class="card-body">
+                <form action="#" name="myForm" role="form" class="validate" id="formPost">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label class="form-label">Hospital &nbsp;<span style="color: red;"><b>*</b></span></label>
+                                <select class="form-control" id="hospitalid" disabled></select>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label class="form-label">No of Floor &nbsp;<span style="color: red;"><b>*</b></span></label>
+                                <select class="form-control" id="floorno" readonly></select>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label class="form-label">Select Floor &nbsp;<span style="color: red;"><b>*</b></span></label>
+                                <select class="form-control" id="Floors">
+                                    <option value="SelectFloor">Select Floor</option>
+                                    <option value="GroundFloor">Ground Floor</option>
+                                    <option value="FirstFloor">First Floor</option>
+                                    <option value="SecondFloor">Second Floor</option>
+                                    <option value="ThirdFloor">Third Floor</option>
+                                    <option value="FourthFloor">Fourth Floor</option>
+                                    <option value="FifthFloor">Fifth Floor</option>
+                                    <option value="SixthFloor">Sixth Floor</option>
+                                    <option value="SeventhFloor">Seventh Floor</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label class="form-label">Bed No &nbsp;<span style="color: red;"><b>*</b></span></label>
+                                <input type="text" class="form-control" id="bedno" placeholder="Bed No">
+                            </div>
+                        </div>
+                       
+                    </div>
+                    <br />
+                    <br />
+                    <div class="table-responsive">
+                        <table id="BEd" class="table table-bordered table-hover mb-0">
+                            <thead>
+                                <tr>
+                                    <th>Hospital</th>
+                                    <th>No of Floor</th>
+                                    <th>Select Floor</th>
+                                    <th>Bed Number</th>
+                                    <th>Action</th>
+                                </tr>
+                            </thead>
+                            <tbody id="Bed_tb">
+                            </tbody>
+                        </table>
+                    </div>
+                    <br />
+                    <br />
+                    <br />
+                    <div class="row">
+                        <div class="col-md-6">
+                            <button type="button" id="Add_Bed" class="btn btn-radius btn-info" onclick="validateForm()">Add Bed</button>
+                            <button type="button" id="btnSave" class="btn btn-radius btn-success">Save</button>
+                            <a type="button" href="/Bed/SingleBedCreate" class="btn btn-radius btn-danger">Reset</a>
+
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section scripts{
+    <script>
+
+        $(function () {
+
+            $("#btnSave").click(function (e) {
+
+                if (!document.getElementById("formPost").checkValidity()) {
+                    e.preventDefault();
+                }
+                else {
+                    var itemDeatils = [];
+                    $.each($("#BEd tbody tr"), function () {
+                        var $irow = $(this),
+                            rowObj = {};
+                        var k = 0
+                        var HospitalName;
+                        var NoOf_Floor;
+                        var FloorName;
+                        var BedNo;
+                        $.each($("td", $irow), function () {
+                            var $col = $(this);
+
+                            if (k == 0) {
+                                HospitalName = parseInt($col.html())
+                            }
+                            if (k == 1) {
+                                NoOf_Floor = parseInt($col.html())
+                            }
+                            if (k == 2) {
+                                FloorName = $col.html()
+                            }
+                            if (k == 3) {
+                                BedNo = $col.html()
+                            }
+                            k = k + 1
+                        });
+                        var a = {
+                            "hospitalMasterid": parseInt($("#hospitalid").val()),
+                            "floorNoid": parseInt($("#floorno").val()),
+                            "floorsName": FloorName,
+                            "bedNo": BedNo,
+                        }
+                        itemDeatils.push(a)
+                    });
+
+                    var model = {
+                        bedDTOs: itemDeatils,
+                        createdBy: @Context.Session.GetInt32("UserId"),
+                    }
+                    $.ajax({
+                        type: "POST",
+                        url: "@apiUrl/api/Bed/CreateBed",
+                        data: JSON.stringify(model),
+                        contentType: "application/json; charset=utf-8",
+                        headers: {
+                            "authorization": "Bearer @Context.Session.GetString("TokenTxt")"
+                        },
+                        dataType: "json",
+                        success: function (data, statusText, xhr) {
+                            if (xhr.status === 200) {
+
+                                sweetAlert({
+                                    html: true,
+                                    icon: "success",
+                                    title: "Bed",
+                                    text: "Successfully created!",
+                                    type: "success"
+                                });
+                            } else if (data.status === "duplicate") {
+                                sweetAlert("Validation Alert!", data.responseMsg, "warning");
+                            } else if (data.status === "error") {
+                                sweetAlert("Validation Alert!", data.responseMsg, "warning");
+                            } else {
+                                sweetAlert("Validation Alert!", "Something unexpected!", "warning");
+                            }
+                        },
+                        error: function (data) {
+                            if (data.status == 401) {
+                                window.location.replace('/Message/TokenExpire');
+                            } else if (data.status == 403) {
+                                window.location.replace('/Message/Unauthorize');
+                            } else if (data.status == 400) {
+                                sweetAlert("Validation Alert!", "Please check input data!", "warning");
+                            }
+                        }
+                    });
+                }
+            });
+        });
+
+        GetHospitalList()
+        function GetHospitalList(Id) {
+            var opt = '';
+            $.ajax({
+                type: "GET",
+                url: "@apiUrl/api/Hospital/GetHospitalByUserId/" + @Context.Session.GetInt32("UserId"),
+                contentType: "application/json; charset=utf-8",
+                headers: {
+                    "authorization": "Bearer @Context.Session.GetString("TokenTxt")"
+                },
+                dataType: "json",
+                success: function (res) {
+                    console.log(res)
+                    var options = [];
+                    for (var i = 0; i < res.data.length; i++) {
+                        if (Id == res.data[i].hospitalMasterid) {
+                            opt = 'selected'
+                        } else {
+                            opt = '';
+                        }
+                        options.push('<option value="' + res.data[i].hospitalMasterid + '" ' + opt + '>' + res.data[i].hospitalName + '</option>');
+                    }
+                    $("#hospitalid").html(options.join(''));
+                },
+                error: function (data) {
+                    if (data.status == 401) {
+                        window.location.replace('/Message/TokenExpire');
+                    } else if (data.status == 403) {
+                        window.location.replace('/Message/Unauthorize');
+                    }
+                }
+            });
+        }
+
+        GetFloorList()
+        function GetFloorList(Id) {
+            var opt = '';
+            $.ajax({
+                type: "GET",
+                url: "@apiUrl/api/Hospital/GetNoOfFloorByHospitalId/" + @Context.Session.GetInt32("HospitalMasterid"),
+                contentType: "application/json; charset=utf-8",
+                headers: {
+                    "authorization": "Bearer @Context.Session.GetString("TokenTxt")"
+                },
+                dataType: "json",
+                success: function (res) {
+                    console.log(res)
+                    var options = [];
+                    for (var i = 0; i < res.data.length; i++) {
+                        if (Id == res.data[i].hospitalMasterid) {
+                            opt = 'selected'
+                        } else {
+                            opt = '';
+                        }
+                        options.push('<option value="' + res.data[i].hospitalMasterid + '" ' + opt + '>' + res.data[i].nooffloor + '</option>');
+                    }
+                    $("#floorno").html(options.join(''));
+                },
+                error: function (data) {
+                    if (data.status == 401) {
+                        window.location.replace('/Message/TokenExpire');
+                    } else if (data.status == 403) {
+                        window.location.replace('/Message/Unauthorize');
+                    }
+                }
+            });
+        }
+
+        $(function () {
+            $("#Add_Bed").click(function (e) {
+                var x = $('#Bed_tb').html();
+                var Hospital = $('#hospitalid option:selected').text();
+                var Nooffloors = $('#floorno option:selected').text();
+                var Foors = $('#Floors').val();
+                var BedNo = $('#bedno').val();
+
+                x = x + "<tr><td>" + Hospital + "</td><td>" + Nooffloors + "</td><td>" + Foors + "</td><td>" + BedNo + "</td><td><button class='delRowBtn'>Delete</button></td></tr>"
+                
+                $('#Bed_tb').html(x);
+                $(document.body).delegate(".delRowBtn", "click", function () {
+                    $(this).closest("tr").remove();
+                });
+            });
+        });
+
+        function validateForm() {
+            var x = document.forms["myForm"]["hospitalid"].value;
+            if (x == "") {
+                alert("Plese Select Hospital");
+                return false;
+            }
+        }
+    </script>
+}

@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AdminApi</name>
+    </assembly>
+    <members>
+        <member name="M:AdminApi.Controllers.MenuController.GetAppMenu(System.Int32)">
+            <summary>
+            Generate App Menu.
+            </summary>
+        </member>
+        <member name="M:AdminApi.Controllers.MenuController.GetMenuAccessList(System.Int32)">
+            <summary>
+            Menu Access List by Menu Group ID.
+            </summary>
+        </member>
+        <member name="M:AdminApi.Controllers.MenuController.MenuAssign(AdminApi.ViewModels.Menu.MenuOperation)">
+            <summary>
+            Assign App Menu
+            </summary>
+        </member>
+        <member name="M:AdminApi.Controllers.MenuController.GetMenuList">
+            <summary>
+            Get App Menu List
+            </summary>
+        </member>
+        <member name="M:AdminApi.Controllers.MenuController.GetParentMenuList">
+            <summary>
+            Get App Parent Menu List
+            </summary>
+        </member>
+        <member name="M:AdminApi.Controllers.MenuController.GetSingleMenu(System.Int32)">
+            <summary>
+            Get Single Menu by ID
+            </summary>
+        </member>
+        <member name="M:AdminApi.Controllers.MenuController.DeleteSingleMenu(System.Int32)">
+            <summary>
+            Delete Single Menu by ID
+            </summary>
+        </member>
+        <member name="M:AdminApi.Controllers.MenuController.CreateMenu(AdminApi.Models.Menu.AppMenu)">
+            <summary>
+            Create App Menu
+            </summary>
+        </member>
+        <member name="M:AdminApi.Controllers.MenuController.UpdateMenu(AdminApi.Models.Menu.AppMenu)">
+            <summary>
+            Update App Menu
+            </summary>
+        </member>
+        <member name="M:AdminApi.Controllers.MenuController.GetMenuGroupList">
+            <summary>
+            Get Menu Group List
+            </summary>
+        </member>
+        <member name="M:AdminApi.Controllers.MenuController.GetSingleMenuGroup(System.Int32)">
+            <summary>
+            Get Single Menu Group by ID
+            </summary>
+        </member>
+        <member name="M:AdminApi.Controllers.MenuController.DeleteSingleMenuGroup(System.Int32)">
+            <summary>
+            Delete Single Menu Group by ID
+            </summary>
+        </member>
+        <member name="M:AdminApi.Controllers.MenuController.CreateMenuGroup(AdminApi.Models.Menu.MenuGroup)">
+            <summary>
+            Create Menu Group
+            </summary>
+        </member>
+        <member name="M:AdminApi.Controllers.MenuController.UpdateMenuGroup(AdminApi.Models.Menu.MenuGroup)">
+            <summary>
+            Update Menu Group
+            </summary>
+        </member>
+        <member name="M:AdminApi.Controllers.MenuController.GetMenuGroupWiseMenuMappingList">
+            <summary>
+            Get Menu Group wise Menu Mapping List
+            </summary>
+        </member>
+        <member name="M:AdminApi.Controllers.UsersController.GetLoginInfo(System.String,System.String)">
+            <summary>
+            Get Log in Detail
+            </summary>
+        </member>
+        <member name="M:AdminApi.Controllers.UsersController.CreateLoginHistory(AdminApi.Models.User.LogHistory)">
+            <summary>
+            Create Log History after login
+            </summary>
+        </member>
+        <member name="M:AdminApi.Controllers.UsersController.UpdateLoginHistory(System.String)">
+            <summary>
+            Update Login History
+            </summary>
+        </member>
+        <member name="M:AdminApi.Controllers.UsersController.GetLogInSummaryByDate(System.Int32)">
+            <summary>
+            Get date wise Login summary
+            </summary>
+        </member>
+        <member name="M:AdminApi.Controllers.UsersController.GetLogInSummaryByMonth(System.Int32)">
+            <summary>
+            Get month wise Login summary
+            </summary>
+        </member>
+        <member name="M:AdminApi.Controllers.UsersController.GetLogInSummaryByYear(System.Int32)">
+            <summary>
+            Get month wise Login summary
+            </summary>
+        </member>
+        <member name="M:AdminApi.Controllers.UsersController.GetRoleWiseUser">
+            <summary>
+            Get Role wise User Count
+            </summary>
+        </member>
+        <member name="M:AdminApi.Controllers.UsersController.GetUserRoleList">
+            <summary>
+            Get Role List
+            </summary>
+        </member>
+        <member name="M:AdminApi.Controllers.UsersController.GetSingleRole(System.Int32)">
+            <summary>
+            Get Single Role by ID
+            </summary>
+        </member>
+        <member name="M:AdminApi.Controllers.UsersController.DeleteSingleRole(System.Int32)">
+            <summary>
+            Delete Single Role by ID
+            </summary>
+        </member>
+        <member name="M:AdminApi.Controllers.UsersController.CreateUserRole(AdminApi.Models.User.UserRole)">
+            <summary>
+            Create User Role
+            </summary>
+        </member>
+        <member name="M:AdminApi.Controllers.UsersController.UpdateUserRole(AdminApi.Models.User.UserRole)">
+            <summary>
+            Update User Role
+            </summary>
+        </member>
+        <member name="M:AdminApi.Controllers.UsersController.GetUserList">
+            <summary>
+            Get User List
+            </summary>
+        </member>
+        <member name="M:AdminApi.Controllers.UsersController.GetSingleUser(System.Int32)">
+            <summary>
+            Get Single User by ID
+            </summary>
+        </member>
+        <member name="M:AdminApi.Controllers.UsersController.DeleteSingleUser(System.Int32)">
+            <summary>
+            Delete Single User by ID
+            </summary>
+        </member>
+        <member name="M:AdminApi.Controllers.UsersController.CreateUser(AdminApi.Models.User.Users)">
+            <summary>
+            Create User
+            </summary>
+        </member>
+        <member name="M:AdminApi.Controllers.UsersController.UpdateUser(AdminApi.Models.User.Users)">
+            <summary>
+            Update User
+            </summary>
+        </member>
+        <member name="M:AdminApi.Controllers.UsersController.UpdateUserProfile(AdminApi.ViewModels.User.UserInfo)">
+            <summary>
+            Update User Profile
+            </summary>
+        </member>
+        <member name="M:AdminApi.Controllers.UsersController.ChangeUserPassword(AdminApi.ViewModels.User.UserInfo)">
+            <summary>
+            Change User Password
+            </summary>
+        </member>
+        <member name="M:AdminApi.Controllers.UsersController.UserStatus">
+            <summary>
+            Dashboard User Status
+            </summary>
+        </member>
+    </members>
+</doc>

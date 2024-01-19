@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Release\netcoreapp3.1\publish\</_PublishTargetUrl>
+    <History>True|2023-01-30T10:10:58.2332549Z;True|2023-01-30T10:58:17.2352282+05:30;True|2023-01-30T10:28:17.7208492+05:30;True|2023-01-30T10:27:30.8001590+05:30;True|2023-01-29T10:50:13.1517808+05:30;True|2023-01-27T22:32:53.9343790+05:30;False|2023-01-27T13:27:42.5027338+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,526 @@
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\nLog.config
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\appsettings.Development.json
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\appsettings.json
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\AdminClient.exe
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\AdminClient.deps.json
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\AdminClient.runtimeconfig.json
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\AdminClient.runtimeconfig.dev.json
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\AdminClient.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\AdminClient.pdb
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\AdminClient.Views.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\AdminClient.Views.pdb
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\NLog.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\NLog.Web.AspNetCore.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\NuGet.Frameworks.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\QRCoder.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\System.Drawing.Common.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.csproj.AssemblyReference.cache
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.GeneratedMSBuildEditorConfig.editorconfig
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.AssemblyInfoInputs.cache
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.AssemblyInfo.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.csproj.CoreCompileInputs.cache
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.MvcApplicationPartsAssemblyInfo.cache
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.RazorAssemblyInfo.cache
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.RazorAssemblyInfo.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\scopedcss\bundle\AdminClient.styles.css
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\staticwebassets\AdminClient.StaticWebAssets.Manifest.cache
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.TagHelpers.input.cache
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.TagHelpers.output.cache
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.RazorCoreGenerate.cache
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Bed\BedCreate.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Bed\BedEdit.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Bed\BedList.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Bed\SingleBedCreate.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Bed\SuperAdminBedCreate.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Bed\SuperAdminBedList.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Bed\SuperAdminSingleBedCreate.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\DashBoard\Index.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Dietician\DieticianCreate.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Dietician\DieticianEdit.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Dietician\DieticianList.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Dietician\PatientDietCreate.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Dietician\SADieticianCreate.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Dietician\SADieticianList.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\DietType\DietTypeCreate.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\DietType\DietTypeEdit.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\DietType\DietTypeList.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Diet\DietCreate.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Diet\DietEdit.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Diet\DietList.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Diet\FPAssigneeCreate.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Diet\QrCodePrint.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Diet\SAFPAssigneeCreate.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Diet\SuperAdminDietCreate.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Diet\SuperAdminDietEdit.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Diet\SuperAdminDietList.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\FoodProviderLogin\FPLoginCreate.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\FoodProviderLogin\FPLoginEdit.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\FoodProviderLogin\FPLoginList.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\FoodProviderLogin\SAFPLoginCreate.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\FoodProviderLogin\SAFPLoginList.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\FoodServiceType\FoodServiceTypeCreate.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\FoodServiceType\FoodServiceTypeEdit.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\FoodServiceType\FoodServiceTypeList.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Hospital\HospitalCreate.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Hospital\HospitalEdit.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Hospital\HospitalList.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Menu\MenuGroupList.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Menu\MenuList.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Message\Common.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\PatientType\PatientTypeCreate.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\PatientType\PatientTypeEdit.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\PatientType\PatientTypeList.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Report\DeliveryReport.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Shared\NotFound.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Supervisor\SASupervisorCreate.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Supervisor\SASupervisorList.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Supervisor\SupervisorCreate.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Supervisor\SupervisorEdit.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Supervisor\SupervisorList.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\User\ChangePassword.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\User\RoleList.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\User\UserList.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\User\UserProfile.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.RazorTargetAssemblyInfo.cache
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.RazorTargetAssemblyInfo.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.Views.pdb
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.csproj.CopyComplete
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\refint\AdminClient.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.pdb
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.genruntimeconfig.cache
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\ref\AdminClient.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Diet\DietHistory.cshtml.g.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Dietician\AdvancePatientDietCreate.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\nLog.config
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\appsettings.Development.json
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\appsettings.json
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\AdminClient.exe
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\AdminClient.deps.json
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\AdminClient.runtimeconfig.json
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\AdminClient.runtimeconfig.dev.json
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\AdminClient.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\ref\AdminClient.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\AdminClient.pdb
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\AdminClient.Views.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\AdminClient.Views.pdb
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\NLog.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\NLog.Web.AspNetCore.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\NuGet.Frameworks.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\QRCoder.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\System.Composition.Convention.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\System.Composition.Hosting.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\System.Composition.Runtime.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\System.Composition.TypedParts.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\System.Drawing.Common.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.csproj.AssemblyReference.cache
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.GeneratedMSBuildEditorConfig.editorconfig
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.AssemblyInfoInputs.cache
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.AssemblyInfo.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.csproj.CoreCompileInputs.cache
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.MvcApplicationPartsAssemblyInfo.cache
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.RazorAssemblyInfo.cache
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.RazorAssemblyInfo.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\staticwebassets\AdminClient.StaticWebAssets.Manifest.cache
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\staticwebassets\AdminClient.StaticWebAssets.xml
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\scopedcss\bundle\AdminClient.styles.css
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.TagHelpers.input.cache
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.TagHelpers.output.cache
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.RazorCoreGenerate.cache
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Bed\BedCreate.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Bed\BedEdit.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Bed\BedList.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Bed\SingleBedCreate.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Bed\SuperAdminBedCreate.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Bed\SuperAdminBedList.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Bed\SuperAdminSingleBedCreate.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\DashBoard\Index.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Dietician\AdvancePatientDietCreate.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Dietician\DieticianCreate.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Dietician\DieticianEdit.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Dietician\DieticianList.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Dietician\PatientDietCreate.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Dietician\SADieticianCreate.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Dietician\SADieticianList.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\DietType\DietTypeCreate.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\DietType\DietTypeEdit.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\DietType\DietTypeList.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Diet\DietCreate.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Diet\DietEdit.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Diet\DietHistory.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Diet\DietList.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Diet\FPAssigneeCreate.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Diet\QrCodePrint.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Diet\SAFPAssigneeCreate.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Diet\SuperAdminDietCreate.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Diet\SuperAdminDietEdit.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Diet\SuperAdminDietList.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\FoodProviderLogin\FPLoginCreate.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\FoodProviderLogin\FPLoginEdit.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\FoodProviderLogin\FPLoginList.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\FoodProviderLogin\SAFPLoginCreate.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\FoodProviderLogin\SAFPLoginList.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\FoodServiceType\FoodServiceTypeCreate.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\FoodServiceType\FoodServiceTypeEdit.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\FoodServiceType\FoodServiceTypeList.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Hospital\HospitalCreate.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Hospital\HospitalEdit.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Hospital\HospitalList.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Menu\MenuGroupList.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Menu\MenuList.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Message\Common.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\PatientType\PatientTypeCreate.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\PatientType\PatientTypeEdit.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\PatientType\PatientTypeList.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Report\DeliveryReport.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Shared\NotFound.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Supervisor\SASupervisorCreate.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Supervisor\SASupervisorList.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Supervisor\SupervisorCreate.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Supervisor\SupervisorEdit.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Supervisor\SupervisorList.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\User\ChangePassword.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\User\RoleList.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\User\UserList.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\User\UserProfile.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.RazorTargetAssemblyInfo.cache
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.RazorTargetAssemblyInfo.cs
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.Views.pdb
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.csproj.CopyComplete
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\ref\AdminClient.dll
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.pdb
+F:\APPMAN\Project\Yatri\YatriAdmin\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.genruntimeconfig.cache
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\nLog.config
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\appsettings.Development.json
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\appsettings.json
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\AdminClient.StaticWebAssets.xml
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\AdminClient.exe
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\AdminClient.deps.json
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\AdminClient.runtimeconfig.json
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\AdminClient.runtimeconfig.dev.json
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\AdminClient.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\AdminClient.pdb
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\AdminClient.Views.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\AdminClient.Views.pdb
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\Newtonsoft.Json.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\NLog.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\NLog.Web.AspNetCore.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\NuGet.Frameworks.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\QRCoder.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\System.Composition.Convention.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\System.Composition.Hosting.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\System.Composition.Runtime.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\System.Composition.TypedParts.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\System.Drawing.Common.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.csproj.AssemblyReference.cache
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.GeneratedMSBuildEditorConfig.editorconfig
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.AssemblyInfoInputs.cache
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.AssemblyInfo.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.csproj.CoreCompileInputs.cache
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.MvcApplicationPartsAssemblyInfo.cache
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.RazorAssemblyInfo.cache
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.RazorAssemblyInfo.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\scopedcss\bundle\AdminClient.styles.css
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\staticwebassets\AdminClient.StaticWebAssets.Manifest.cache
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\staticwebassets\AdminClient.StaticWebAssets.Pack.cache
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\staticwebassets\msbuild.AdminClient.Microsoft.AspNetCore.StaticWebAssets.props
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\staticwebassets\msbuild.build.AdminClient.props
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.AdminClient.props
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.AdminClient.props
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.TagHelpers.input.cache
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.TagHelpers.output.cache
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.RazorCoreGenerate.cache
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Bed\BedCreate.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Bed\BedEdit.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Bed\BedList.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Bed\SingleBedCreate.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Bed\SuperAdminBedCreate.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Bed\SuperAdminBedList.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Bed\SuperAdminSingleBedCreate.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\DashBoard\Index.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Dietician\AdvancePatientDietCreate.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Dietician\DieticianCreate.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Dietician\DieticianEdit.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Dietician\DieticianList.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Dietician\PatientDietCreate.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Dietician\SADieticianCreate.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Dietician\SADieticianList.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\DietType\DietTypeCreate.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\DietType\DietTypeEdit.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\DietType\DietTypeList.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Diet\DietCreate.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Diet\DietEdit.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Diet\DietHistory.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Diet\DietList.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Diet\FPAssigneeCreate.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Diet\QrCodePrint.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Diet\SAFPAssigneeCreate.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Diet\SuperAdminDietCreate.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Diet\SuperAdminDietEdit.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Diet\SuperAdminDietList.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\FoodProviderLogin\FPLoginCreate.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\FoodProviderLogin\FPLoginEdit.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\FoodProviderLogin\FPLoginList.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\FoodProviderLogin\SAFPLoginCreate.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\FoodProviderLogin\SAFPLoginList.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\FoodServiceType\FoodServiceTypeCreate.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\FoodServiceType\FoodServiceTypeEdit.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\FoodServiceType\FoodServiceTypeList.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Hospital\HospitalCreate.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Hospital\HospitalEdit.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Hospital\HospitalList.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Menu\MenuGroupList.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Menu\MenuList.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Message\Common.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\PatientType\PatientTypeCreate.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\PatientType\PatientTypeEdit.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\PatientType\PatientTypeList.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Report\DeliveryReport.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Shared\NotFound.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Supervisor\SASupervisorCreate.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Supervisor\SASupervisorList.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Supervisor\SupervisorCreate.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Supervisor\SupervisorEdit.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\Supervisor\SupervisorList.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\User\ChangePassword.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\User\RoleList.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\User\UserList.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\User\UserProfile.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.RazorTargetAssemblyInfo.cache
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.RazorTargetAssemblyInfo.cs
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.Views.pdb
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.csproj.CopyComplete
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\refint\AdminClient.dll
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.pdb
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\AdminClient.genruntimeconfig.cache
+\\APPMAN\1. Public Folder\Tanmay\AdminConsole\AdminClient\obj\Debug\net5.0\ref\AdminClient.dll

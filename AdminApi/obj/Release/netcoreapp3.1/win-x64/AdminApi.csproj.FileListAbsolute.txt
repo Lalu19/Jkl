@@ -1,0 +1,840 @@
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\appsettings.Development.json
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\appsettings.json
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\AdminApi.exe
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\AdminApi.deps.json
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\AdminApi.runtimeconfig.json
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\AdminApi.runtimeconfig.dev.json
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\AdminApi.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\AdminApi.pdb
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\AdminApi.xml
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\EFCore.BulkExtensions.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\FastMember.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Bcl.HashCode.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Data.SqlClient.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Data.Sqlite.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.DotNet.PlatformAbstractions.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.EntityFrameworkCore.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.EntityFrameworkCore.Design.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.EntityFrameworkCore.Sqlite.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.DependencyModel.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.PlatformAbstractions.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Identity.Client.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.IdentityModel.Logging.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.IdentityModel.Protocols.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.IdentityModel.Tokens.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.OpenApi.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Win32.SystemEvents.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\MySqlConnector.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Nancy.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Newtonsoft.Json.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Npgsql.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Oracle.EntityFrameworkCore.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Oracle.ManagedDataAccess.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Pomelo.EntityFrameworkCore.MySql.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Pomelo.JsonObject.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\QRCoder.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\SQLitePCLRaw.batteries_v2.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\SQLitePCLRaw.nativelibrary.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\SQLitePCLRaw.core.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\SQLitePCLRaw.provider.dynamic_cdecl.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Swashbuckle.AspNetCore.Swagger.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Configuration.ConfigurationManager.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Drawing.Common.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.IdentityModel.Tokens.Jwt.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Caching.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.ProtectedData.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Text.Encoding.CodePages.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\sni.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\e_sqlite3.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.CSharp.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.VisualBasic.Core.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.VisualBasic.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Win32.Primitives.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Win32.Registry.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.AppContext.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Buffers.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Collections.Concurrent.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Collections.Immutable.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Collections.NonGeneric.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Collections.Specialized.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Collections.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.Annotations.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.DataAnnotations.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.EventBasedAsync.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.Primitives.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.TypeConverter.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Configuration.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Console.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Core.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Data.Common.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Data.DataSetExtensions.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Data.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.Contracts.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.Debug.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.DiagnosticSource.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.FileVersionInfo.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.Process.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.StackTrace.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.TextWriterTraceListener.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.Tools.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.TraceSource.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.Tracing.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Drawing.Primitives.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Drawing.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Dynamic.Runtime.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Globalization.Calendars.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Globalization.Extensions.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Globalization.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.IO.Compression.Brotli.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.IO.Compression.FileSystem.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.IO.Compression.ZipFile.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.IO.Compression.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.IO.FileSystem.AccessControl.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.IO.FileSystem.DriveInfo.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.IO.FileSystem.Primitives.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.IO.FileSystem.Watcher.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.IO.FileSystem.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.IO.IsolatedStorage.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.IO.MemoryMappedFiles.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.IO.Pipes.AccessControl.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.IO.Pipes.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.IO.UnmanagedMemoryStream.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.IO.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Linq.Expressions.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Linq.Parallel.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Linq.Queryable.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Linq.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Memory.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Net.Http.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Net.HttpListener.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Net.Mail.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Net.NameResolution.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Net.NetworkInformation.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Net.Ping.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Net.Primitives.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Net.Requests.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Net.Security.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Net.ServicePoint.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Net.Sockets.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Net.WebClient.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Net.WebHeaderCollection.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Net.WebProxy.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Net.WebSockets.Client.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Net.WebSockets.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Net.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Numerics.Vectors.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Numerics.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.ObjectModel.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Private.DataContractSerialization.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Private.Uri.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Private.Xml.Linq.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Private.Xml.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Reflection.DispatchProxy.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Reflection.Emit.ILGeneration.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Reflection.Emit.Lightweight.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Reflection.Emit.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Reflection.Extensions.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Reflection.Metadata.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Reflection.Primitives.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Reflection.TypeExtensions.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Reflection.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Resources.Reader.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Resources.ResourceManager.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Resources.Writer.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Runtime.CompilerServices.VisualC.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Extensions.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Handles.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Runtime.InteropServices.WindowsRuntime.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Runtime.InteropServices.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Intrinsics.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Loader.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Numerics.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Serialization.Formatters.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Serialization.Json.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Serialization.Primitives.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Serialization.Xml.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Serialization.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Runtime.WindowsRuntime.UI.Xaml.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Runtime.WindowsRuntime.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Runtime.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Security.AccessControl.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Security.Claims.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.Algorithms.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.Cng.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.Csp.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.Encoding.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.OpenSsl.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.Primitives.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.X509Certificates.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Security.Principal.Windows.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Security.Principal.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Security.SecureString.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Security.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.ServiceModel.Web.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.ServiceProcess.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Text.Encoding.Extensions.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Text.Encoding.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Text.Encodings.Web.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Text.Json.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Text.RegularExpressions.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Threading.Channels.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Threading.Overlapped.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Threading.Tasks.Dataflow.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Threading.Tasks.Extensions.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Threading.Tasks.Parallel.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Threading.Tasks.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Threading.Thread.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Threading.ThreadPool.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Threading.Timer.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Threading.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Transactions.Local.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Transactions.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.ValueTuple.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Web.HttpUtility.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Web.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Windows.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Xml.Linq.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Xml.ReaderWriter.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Xml.Serialization.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Xml.XDocument.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Xml.XPath.XDocument.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Xml.XPath.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Xml.XmlDocument.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Xml.XmlSerializer.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Xml.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\WindowsBase.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\mscorlib.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\netstandard.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\SOS_README.md
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Private.CoreLib.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-console-l1-1-0.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-datetime-l1-1-0.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-debug-l1-1-0.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-errorhandling-l1-1-0.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-file-l1-1-0.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-file-l1-2-0.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-file-l2-1-0.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-handle-l1-1-0.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-heap-l1-1-0.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-interlocked-l1-1-0.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-libraryloader-l1-1-0.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-localization-l1-2-0.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-memory-l1-1-0.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-namedpipe-l1-1-0.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-processenvironment-l1-1-0.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-processthreads-l1-1-0.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-processthreads-l1-1-1.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-profile-l1-1-0.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-rtlsupport-l1-1-0.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-string-l1-1-0.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-synch-l1-1-0.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-synch-l1-2-0.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-sysinfo-l1-1-0.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-timezone-l1-1-0.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-util-l1-1-0.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-conio-l1-1-0.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-convert-l1-1-0.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-environment-l1-1-0.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-filesystem-l1-1-0.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-heap-l1-1-0.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-locale-l1-1-0.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-math-l1-1-0.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-multibyte-l1-1-0.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-private-l1-1-0.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-process-l1-1-0.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-runtime-l1-1-0.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-stdio-l1-1-0.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-string-l1-1-0.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-time-l1-1-0.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-utility-l1-1-0.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\clrcompression.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\clretwrc.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\clrjit.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\coreclr.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\dbgshim.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\hostfxr.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\hostpolicy.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\mscordaccore.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\mscordbi.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\mscorrc.debug.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\mscorrc.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\ucrtbase.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Antiforgery.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Authentication.Abstractions.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Authentication.Cookies.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Authentication.Core.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Authentication.OAuth.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Authentication.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Authorization.Policy.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Authorization.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Components.Authorization.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Components.Forms.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Components.Server.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Components.Web.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Components.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Connections.Abstractions.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.CookiePolicy.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Cors.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.DataProtection.Extensions.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.DataProtection.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Diagnostics.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.HostFiltering.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Hosting.Abstractions.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Hosting.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Html.Abstractions.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Http.Abstractions.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Http.Connections.Common.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Http.Connections.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Http.Extensions.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Http.Features.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Http.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.HttpOverrides.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.HttpsPolicy.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Identity.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Localization.Routing.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Localization.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Metadata.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Mvc.Abstractions.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Mvc.Core.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Mvc.Cors.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Mvc.Localization.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Mvc.Razor.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Mvc.RazorPages.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Mvc.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Razor.Runtime.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Razor.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.ResponseCaching.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.ResponseCompression.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Rewrite.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Routing.Abstractions.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Routing.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Server.HttpSys.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Server.IIS.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Server.IISIntegration.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Server.Kestrel.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Session.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.SignalR.Common.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.SignalR.Core.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.SignalR.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.StaticFiles.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.WebSockets.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.WebUtilities.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Caching.Memory.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Configuration.Binder.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Configuration.CommandLine.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Configuration.Ini.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Configuration.Json.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Configuration.KeyPerFile.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Configuration.UserSecrets.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Configuration.Xml.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Configuration.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.DependencyInjection.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.FileProviders.Composite.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.FileProviders.Embedded.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.FileProviders.Physical.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Hosting.Abstractions.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Hosting.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Http.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Identity.Core.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Identity.Stores.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Localization.Abstractions.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Localization.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Logging.Configuration.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Logging.Console.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Logging.Debug.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Logging.EventLog.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Logging.EventSource.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Logging.TraceSource.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Logging.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.ObjectPool.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Options.DataAnnotations.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Options.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Primitives.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.WebEncoders.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.JSInterop.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Net.Http.Headers.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.EventLog.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.IO.Pipelines.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.Pkcs.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.Xml.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Security.Permissions.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Windows.Extensions.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\aspnetcorev2_inprocess.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\obj\Release\netcoreapp3.1\win-x64\AdminApi.csproj.AssemblyReference.cache
+G:\Yatri\Yatri\AdminConsole\AdminApi\obj\Release\netcoreapp3.1\win-x64\AdminApi.GeneratedMSBuildEditorConfig.editorconfig
+G:\Yatri\Yatri\AdminConsole\AdminApi\obj\Release\netcoreapp3.1\win-x64\AdminApi.AssemblyInfoInputs.cache
+G:\Yatri\Yatri\AdminConsole\AdminApi\obj\Release\netcoreapp3.1\win-x64\AdminApi.AssemblyInfo.cs
+G:\Yatri\Yatri\AdminConsole\AdminApi\obj\Release\netcoreapp3.1\win-x64\AdminApi.csproj.CoreCompileInputs.cache
+G:\Yatri\Yatri\AdminConsole\AdminApi\obj\Release\netcoreapp3.1\win-x64\AdminApi.MvcApplicationPartsAssemblyInfo.cs
+G:\Yatri\Yatri\AdminConsole\AdminApi\obj\Release\netcoreapp3.1\win-x64\AdminApi.MvcApplicationPartsAssemblyInfo.cache
+G:\Yatri\Yatri\AdminConsole\AdminApi\obj\Release\netcoreapp3.1\win-x64\staticwebassets\AdminApi.StaticWebAssets.Manifest.cache
+G:\Yatri\Yatri\AdminConsole\AdminApi\obj\Release\netcoreapp3.1\win-x64\AdminApi.RazorTargetAssemblyInfo.cache
+G:\Yatri\Yatri\AdminConsole\AdminApi\obj\Release\netcoreapp3.1\win-x64\AdminApi.csproj.CopyComplete
+G:\Yatri\Yatri\AdminConsole\AdminApi\obj\Release\netcoreapp3.1\win-x64\AdminApi.dll
+G:\Yatri\Yatri\AdminConsole\AdminApi\obj\Release\netcoreapp3.1\win-x64\AdminApi.xml
+G:\Yatri\Yatri\AdminConsole\AdminApi\obj\Release\netcoreapp3.1\win-x64\AdminApi.pdb
+G:\Yatri\Yatri\AdminConsole\AdminApi\obj\Release\netcoreapp3.1\win-x64\AdminApi.genruntimeconfig.cache
+G:\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\mscordaccore_amd64_amd64_4.700.22.26002.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\appsettings.Development.json
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\appsettings.json
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\AdminApi.exe
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\AdminApi.deps.json
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\AdminApi.runtimeconfig.json
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\AdminApi.runtimeconfig.dev.json
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\AdminApi.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\AdminApi.pdb
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\AdminApi.xml
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\EFCore.BulkExtensions.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\FastMember.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Bcl.HashCode.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Data.SqlClient.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Data.Sqlite.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.EntityFrameworkCore.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.EntityFrameworkCore.Design.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.DependencyModel.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Identity.Client.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.IdentityModel.Logging.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.IdentityModel.Protocols.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.IdentityModel.Tokens.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.OpenApi.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Win32.SystemEvents.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\MySqlConnector.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Nancy.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Newtonsoft.Json.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Npgsql.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Oracle.EntityFrameworkCore.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Oracle.ManagedDataAccess.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Pomelo.JsonObject.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\QRCoder.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\SQLitePCLRaw.batteries_v2.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\SQLitePCLRaw.nativelibrary.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\SQLitePCLRaw.core.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Swashbuckle.AspNetCore.Swagger.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Configuration.ConfigurationManager.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Drawing.Common.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.IdentityModel.Tokens.Jwt.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Caching.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.ProtectedData.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Text.Encoding.CodePages.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\sni.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\e_sqlite3.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.CSharp.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.VisualBasic.Core.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.VisualBasic.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Win32.Primitives.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Win32.Registry.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.AppContext.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Buffers.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Collections.Concurrent.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Collections.Immutable.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Collections.NonGeneric.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Collections.Specialized.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Collections.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.Annotations.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.DataAnnotations.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.EventBasedAsync.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.Primitives.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.TypeConverter.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.ComponentModel.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Configuration.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Console.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Core.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Data.Common.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Data.DataSetExtensions.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Data.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.Contracts.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.Debug.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.DiagnosticSource.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.FileVersionInfo.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.Process.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.StackTrace.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.TextWriterTraceListener.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.Tools.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.TraceSource.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.Tracing.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Drawing.Primitives.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Drawing.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Dynamic.Runtime.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Globalization.Calendars.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Globalization.Extensions.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Globalization.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.IO.Compression.Brotli.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.IO.Compression.FileSystem.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.IO.Compression.ZipFile.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.IO.Compression.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.IO.FileSystem.AccessControl.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.IO.FileSystem.DriveInfo.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.IO.FileSystem.Primitives.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.IO.FileSystem.Watcher.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.IO.FileSystem.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.IO.IsolatedStorage.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.IO.MemoryMappedFiles.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.IO.Pipes.AccessControl.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.IO.Pipes.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.IO.UnmanagedMemoryStream.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.IO.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Linq.Expressions.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Linq.Parallel.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Linq.Queryable.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Linq.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Memory.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Net.Http.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Net.HttpListener.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Net.Mail.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Net.NameResolution.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Net.NetworkInformation.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Net.Ping.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Net.Primitives.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Net.Requests.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Net.Security.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Net.ServicePoint.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Net.Sockets.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Net.WebClient.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Net.WebHeaderCollection.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Net.WebProxy.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Net.WebSockets.Client.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Net.WebSockets.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Net.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Numerics.Vectors.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Numerics.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.ObjectModel.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Private.DataContractSerialization.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Private.Uri.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Private.Xml.Linq.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Private.Xml.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Reflection.DispatchProxy.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Reflection.Emit.ILGeneration.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Reflection.Emit.Lightweight.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Reflection.Emit.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Reflection.Extensions.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Reflection.Metadata.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Reflection.Primitives.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Reflection.TypeExtensions.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Reflection.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Resources.Reader.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Resources.ResourceManager.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Resources.Writer.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Runtime.CompilerServices.VisualC.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Extensions.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Handles.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Runtime.InteropServices.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Intrinsics.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Loader.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Numerics.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Serialization.Formatters.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Serialization.Json.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Serialization.Primitives.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Serialization.Xml.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Runtime.Serialization.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Runtime.WindowsRuntime.UI.Xaml.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Runtime.WindowsRuntime.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Runtime.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Security.AccessControl.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Security.Claims.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.Algorithms.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.Cng.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.Csp.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.Encoding.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.OpenSsl.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.Primitives.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.X509Certificates.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Security.Principal.Windows.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Security.Principal.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Security.SecureString.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Security.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.ServiceModel.Web.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.ServiceProcess.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Text.Encoding.Extensions.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Text.Encoding.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Text.Encodings.Web.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Text.Json.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Text.RegularExpressions.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Threading.Channels.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Threading.Overlapped.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Threading.Tasks.Dataflow.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Threading.Tasks.Extensions.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Threading.Tasks.Parallel.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Threading.Tasks.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Threading.Thread.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Threading.ThreadPool.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Threading.Timer.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Threading.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Transactions.Local.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Transactions.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.ValueTuple.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Web.HttpUtility.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Web.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Windows.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Xml.Linq.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Xml.ReaderWriter.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Xml.Serialization.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Xml.XDocument.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Xml.XPath.XDocument.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Xml.XPath.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Xml.XmlDocument.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Xml.XmlSerializer.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Xml.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\WindowsBase.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\mscorlib.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\netstandard.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Antiforgery.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Authentication.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Authorization.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Components.Forms.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Components.Server.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Components.Web.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Components.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Cors.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.DataProtection.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Diagnostics.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.HostFiltering.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Hosting.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Http.Connections.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Http.Features.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Http.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Identity.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Localization.Routing.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Localization.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Metadata.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Mvc.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Razor.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.ResponseCaching.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.ResponseCompression.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Rewrite.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Routing.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Server.IIS.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.Session.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.SignalR.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.StaticFiles.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.WebSockets.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.WebUtilities.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.AspNetCore.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Caching.Memory.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Configuration.Binder.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Configuration.Ini.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Configuration.Json.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Configuration.Xml.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Configuration.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Hosting.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Http.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Identity.Core.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Identity.Stores.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Localization.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Logging.Configuration.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Logging.Console.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Logging.Debug.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Logging.EventLog.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Logging.EventSource.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Logging.TraceSource.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Logging.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.ObjectPool.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Options.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.Primitives.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Extensions.WebEncoders.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.JSInterop.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.Net.Http.Headers.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Diagnostics.EventLog.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.IO.Pipelines.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.Pkcs.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Security.Cryptography.Xml.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Security.Permissions.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Windows.Extensions.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\SOS_README.md
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\System.Private.CoreLib.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-console-l1-1-0.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-datetime-l1-1-0.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-debug-l1-1-0.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-errorhandling-l1-1-0.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-file-l1-1-0.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-file-l1-2-0.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-file-l2-1-0.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-handle-l1-1-0.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-heap-l1-1-0.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-interlocked-l1-1-0.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-libraryloader-l1-1-0.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-localization-l1-2-0.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-memory-l1-1-0.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-namedpipe-l1-1-0.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-processenvironment-l1-1-0.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-processthreads-l1-1-0.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-processthreads-l1-1-1.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-profile-l1-1-0.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-rtlsupport-l1-1-0.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-string-l1-1-0.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-synch-l1-1-0.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-synch-l1-2-0.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-sysinfo-l1-1-0.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-timezone-l1-1-0.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-core-util-l1-1-0.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-conio-l1-1-0.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-convert-l1-1-0.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-environment-l1-1-0.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-filesystem-l1-1-0.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-heap-l1-1-0.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-locale-l1-1-0.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-math-l1-1-0.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-multibyte-l1-1-0.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-private-l1-1-0.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-process-l1-1-0.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-runtime-l1-1-0.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-stdio-l1-1-0.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-string-l1-1-0.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-time-l1-1-0.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\api-ms-win-crt-utility-l1-1-0.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\clrcompression.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\clretwrc.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\clrjit.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\coreclr.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\dbgshim.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\hostfxr.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\hostpolicy.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\mscordaccore.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\mscordaccore_amd64_amd64_4.700.22.26002.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\mscordbi.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\mscorrc.debug.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\mscorrc.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\ucrtbase.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\bin\Release\netcoreapp3.1\win-x64\aspnetcorev2_inprocess.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\obj\Release\netcoreapp3.1\win-x64\AdminApi.csproj.AssemblyReference.cache
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\obj\Release\netcoreapp3.1\win-x64\AdminApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\obj\Release\netcoreapp3.1\win-x64\AdminApi.AssemblyInfoInputs.cache
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\obj\Release\netcoreapp3.1\win-x64\AdminApi.AssemblyInfo.cs
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\obj\Release\netcoreapp3.1\win-x64\AdminApi.csproj.CoreCompileInputs.cache
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\obj\Release\netcoreapp3.1\win-x64\AdminApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\obj\Release\netcoreapp3.1\win-x64\AdminApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\obj\Release\netcoreapp3.1\win-x64\staticwebassets\AdminApi.StaticWebAssets.Manifest.cache
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\obj\Release\netcoreapp3.1\win-x64\AdminApi.RazorTargetAssemblyInfo.cache
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\obj\Release\netcoreapp3.1\win-x64\AdminApi.csproj.CopyComplete
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\obj\Release\netcoreapp3.1\win-x64\AdminApi.dll
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\obj\Release\netcoreapp3.1\win-x64\AdminApi.xml
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\obj\Release\netcoreapp3.1\win-x64\AdminApi.pdb
+D:\Pravat Project\Yatri\Yatri\AdminConsole\AdminApi\obj\Release\netcoreapp3.1\win-x64\AdminApi.genruntimeconfig.cache

@@ -1,0 +1,348 @@
+﻿@using Microsoft.Extensions.Configuration;
+@using Microsoft.AspNetCore.Http
+@inject IConfiguration Configuration;
+
+@{
+    ViewBag.Title = "Diet";
+    string apiUrl = Configuration.GetValue<string>("WebAPIBaseUrl");
+}
+
+<style>
+    .btn-primary-y {
+        color: #fff;
+        background: #467fcf !important;
+        border-color: #467fcf !important;
+    }
+    .btn-secondary {
+        color: #fff;
+        background: #0099ff !important;
+        border-color: #0099ff;
+    }
+
+    .h-7 {
+        height: 1rem !important;
+    }
+
+    .w-7 {
+        width: 1rem !important;
+    }
+</style>
+<!-- PAGE-HEADER -->
+<div class="page-header">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="#"><i class="fe fe-file-text mr-1"></i> Diet</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Diet-List</li>
+    </ol>
+    <div class="ml-auto">
+        <a href="~/Diet/DietCreate" class="btn btn-primary btn-icon btn-sm text-white mr-2">
+            <span>
+                <i class="fe fe-plus"></i>
+            </span> Diet Create
+        </a>
+
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-12 col-lg-12">
+        <div class="card">
+            <div class="card-header">
+                <div class="card-title">File export Datatable</div>
+            </div>
+            <div class="card-body">
+                <div class="table-responsive">
+                    <table id="diet" class="table table-striped table-bordered text-nowrap w-100">
+                        <thead>
+                            <tr>
+                                <th>Patient Name/IP</th>
+                                <th>Bed No</th>
+                                <th>Floor Name</th>
+                                <th>Service Type</th>
+                                <th>Diet Type</th>
+                                <th>Inst.</th>
+                                <th>Pln Status</th>
+                                <th>Status</th>
+                                <th>Pickup Date/Time</th>
+                                <th>Deliver Date/Time</th>
+                                <th>Collect Date/Time</th>
+                                <th>Feedback</th>
+                                <th>Action</th>
+                            </tr>
+                        </thead>
+
+                    </table>
+                    <div class="row">
+                        <div class="col-md-6 col-lg-4 col-sm-6">
+                            <div class="d-flex align-items-center mb-3 mt-3">
+                                <div class="w-7 h-7 bg-gray  mr-4"></div>
+                                <div>
+                                    <strong>BrCode generate</strong>
+                                </div>
+                            </div>
+                            <div class="d-flex align-items-center mb-3 mt-3">
+                                <div class="w-7 h-7 bg-purple  mr-4"></div>
+                                <div>
+                                    <strong>Out From Kitchen</strong>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4 col-sm-6">
+                            <div class="d-flex align-items-center mb-3 mt-3">
+                                <div class="w-7 h-7 bg-yellow  mr-4"></div>
+                                <div>
+                                    <strong>Deliver to Patient</strong>
+                                </div>
+                            </div>
+                            <div class="d-flex align-items-center mb-3 mt-3">
+                                <div class="w-7 h-7 bg-lime  mr-4"></div>
+                                <div>
+                                    <strong>Clearance</strong>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4 col-sm-6">
+                            <div class="d-flex align-items-center mb-3 mt-3">
+                                <div class="w-7 h-7 bg-red  mr-4"></div>
+                                <div>
+                                    <strong>Pending</strong>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section scripts{
+    <script>
+        loadDiet()
+        function loadDiet() {
+             var table = $('#diet').DataTable();
+             table.destroy();
+             table = $('#diet').dataTable({
+                "paginationType": "full_numbers",
+                "dom": 'Bfrtip',
+                "buttons": ['copy', 'csv', 'excel', 'pdf', 'print'],
+                "searching": true,
+                "paging": true,
+                "sort": true,
+                "info": true,
+                "ajax": {
+                    "url": '@apiUrl/api/DIETMaster/GetHospitalwiseDietList/' + @Context.Session.GetInt32("HospitalMasterid"),
+                    "type": "GET",
+                    "dataType": "json",
+                    "headers": {
+                        "authorization": "Bearer @Context.Session.GetString("TokenTxt")"
+                    },
+                    "error": function (data) {
+                        if (data.status == 401) {
+                            window.location.replace('/Message/TokenExpire');
+                        } else if (data.status == 403) {
+                            window.location.replace('/Message/Unauthorize');
+                        }
+                    }
+                },
+
+                "order": [],
+                "columns": [
+                    {
+                        "render": function (data, type, row) {
+                            return '<p>' + row.patientName + '</br>' + row.ip + '</p>';
+
+                        }
+                    },
+                    { "data": "bedNo", "orderable": true },
+                    { "data": "floorsName", "orderable": true },
+                    { "data": "foodServiceTypeName", "orderable": true },
+                    { "data": "dietTypeName", "orderable": true },
+                    { "data": "specialInstruction", "orderable": true },
+                    {
+                        "render": function (data, type, row) {
+
+                            if (row.patientStatus === 'On-Bed') {
+                                return '<p class="tag tag-cyan">' + row.patientStatus + '</p>';
+                            }
+                            else if (row.patientStatus === 'Plan Discharge') {
+                                return '<p class="tag tag-pink">' + row.patientStatus + '</p>';
+                            }
+
+                        }
+                    },
+                    {
+                        "render": function (data, type, row) {
+
+                            if (row.status === 'BarCode generate') {
+                                return '<p class="tag tag-gray-dark">' + row.status + '</p>';
+                            }
+                            else if (row.status === 'Out From Kitchen') {
+                                return '<p class="tag tag-purple">' + row.status + '</p>';
+                            }
+                            else if (row.status === 'Deliver to Patient') {
+                                return '<p class="tag tag-yellow">' + row.status + '</p>';
+                            }
+                            else if (row.status === 'Clearance') {
+                                return '<p class="tag tag-lime">' + row.status + '</p>';
+                            }
+                            else if (row.status === 'Pending') {
+                                return '<p class="tag tag-red">' + row.status + '</p>';
+                            }
+
+                        }
+                    },
+                    {
+                        "data": "plateReciveDate",
+                        "render": function (data) {
+                            if (data === null) return "";
+                            var date = new Date(data);
+                            var month = date.getMonth() + 1;
+                            return (month.length > 1 ? month : "0" + month) + "/" + date.getDate() + "/" + date.getFullYear() + "&nbsp;&nbsp;" + (date.getHours() < 10 ? ("0" + date.getHours()) : date.getHours()) + ":" + (date.getMinutes() < 10 ? ("0" + date.getMinutes()) : date.getMinutes());
+                        }
+                    },
+                    {
+                        "data": "plateDeliverDate",
+                        "render": function (data) {
+                            if (data === null) return "";
+                            var date = new Date(data);
+                            var month = date.getMonth() + 1;
+                            return (month.length > 1 ? month : "0" + month) + "/" + date.getDate() + "/" + date.getFullYear() + "&nbsp;&nbsp;" + (date.getHours() < 10 ? ("0" + date.getHours()) : date.getHours()) + ":" + (date.getMinutes() < 10 ? ("0" + date.getMinutes()) : date.getMinutes());
+                        }
+                    },
+                    {
+                        "data": "plateCollectionDate",
+                        "render": function (data) {
+                            if (data === null) return "";
+                            var date = new Date(data);
+                            var month = date.getMonth() + 1;
+                            return (month.length > 1 ? month : "0" + month) + "/" + date.getDate() + "/" + date.getFullYear() + "&nbsp;&nbsp;" + (date.getHours() < 10 ? ("0" + date.getHours()) : date.getHours()) + ":" + (date.getMinutes() < 10 ? ("0" + date.getMinutes()) : date.getMinutes());
+                        }
+                    },
+                    {
+                        "render": function (data, type, row) {
+
+                            if (row.feedback === 'Feedback not added') {
+                                return '<span class="badge badge-pill badge-default">' + row.feedback + '</span>';
+                            }
+                            if (row.feedback === 'Brilliant') {
+                                return '<span class="badge badge-pill badge-primary">' + row.feedback + '</span>';
+                            }
+                            if (row.feedback === 'Good') {
+                                return '<span class="badge badge-pill badge-success">' + row.feedback + '</span>';
+                            }
+                            if (row.feedback === 'Ok') {
+                                return '<span class="badge badge-pill badge-info">' + row.feedback + '</span>';
+                            }
+                            if (row.feedback === 'Not Good') {
+                                return '<span class="badge badge-pill badge-danger">' + row.feedback + '</span>';
+                            }
+
+                        }
+                    },
+                    {
+                        "render": function (data, type, row) {
+                            return '<a class="btn btn-success" href="../Diet/DietEdit?dietMasterId=' + row.dietMasterId + '"><i class="fa fa-edit"></i></a>'+'&nbsp<button class="btn btn-icon  btn-danger" data-target="#delete" data-id=' + row.dietMasterId + ' data-title="Delete"><i class="fe fe-trash"></i></button> ' + '<button class="btn btn-icon  btn-primary-y" data-target="#discharge" data-id=' + row.dietMasterId + ' data-title="Discharge"><i class="fe fe-activity"></i></button>';
+                        }
+                    }
+
+                ]
+            });
+        }
+
+       //Delete
+        $('#diet tbody').on('click', 'button[data-target="#delete"]', function () {
+            var id = $(this).data('id');
+            swal({
+                html: true,
+                title: "Are you sure?",
+                text: "You will not be able to recover this data!",
+                type: "warning",
+                showCancelButton: true,
+                confirmButtonColor: "#DD6B55",
+                confirmButtonText: "Yes, confirm it!",
+                closeOnConfirm: false
+            }, function () {
+                $.ajax({
+                    type: "GET",
+                    url: "@apiUrl/api/DIETMaster/DeleteDiet/" +id+"/"+@Context.Session.GetInt32("UserId"),
+                    contentType: "application/json; charset=utf-8",
+                    headers: {
+                       "authorization": "Bearer @Context.Session.GetString("TokenTxt")"
+                    },
+                    dataType: "json",
+                    success: function (data, statusText, xhr) {
+                        if (xhr.status == 200) {
+                            $('#diet').DataTable().ajax.reload(null, false);
+                            sweetAlert({
+                                html: true,
+                                title: "FoodType",
+                                text: "Successfully deleted!",
+                                type: "success"
+                            });
+                        } else if (xhr.status == 202) {
+                            sweetAlert("Validation Alert!", data.responseMsg, "warning");
+                        } else {
+                            sweetAlert("Validation Alert!", "Something unexpected!", "warning");
+                        }
+                    },
+                    error: function (data) {
+                        if (data.status == 401) {
+                            window.location.replace('/Message/TokenExpire');
+                        } else if (data.status == 403) {
+                            window.location.replace('/Message/Unauthorize');
+                        }
+                    }
+                });
+            });
+        });
+
+        //Plan Discharge
+        $('#diet tbody').on('click', 'button[data-target="#discharge"]', function () {
+            var id = $(this).data('id');
+            swal({
+                html: true,
+                title: "Are you sure?",
+                type: "warning",
+                showCancelButton: true,
+                confirmButtonColor: "#DD6B55",
+                confirmButtonText: "Yes, confirm it!",
+                closeOnConfirm: false
+            }, function () {
+                $.ajax({
+                    type: "GET",
+                    url: "@apiUrl/api/DIETMaster/PlanDischarge/" + id,
+                    contentType: "application/json; charset=utf-8",
+                    headers: {
+                        "authorization": "Bearer @Context.Session.GetString("TokenTxt")"
+                    },
+                    dataType: "json",
+                    success: function (data, statusText, xhr) {
+                        if (xhr.status == 200) {
+                            $('#diet').DataTable().ajax.reload(null, false);
+                            sweetAlert({
+                                html: true,
+                                title: "Plan Discharge",
+                                text: "Successfully!",
+                                type: "success"
+                            });
+                        } else if (xhr.status == 202) {
+                            sweetAlert("Validation Alert!", data.responseMsg, "warning");
+                        } else {
+                            sweetAlert("Validation Alert!", "Something unexpected!", "warning");
+                        }
+                    },
+                    error: function (data) {
+                        if (data.status == 401) {
+                            window.location.replace('/Message/TokenExpire');
+                        } else if (data.status == 403) {
+                            window.location.replace('/Message/Unauthorize');
+                        }
+                    }
+                });
+            });
+        });
+
+    </script>
+
+}

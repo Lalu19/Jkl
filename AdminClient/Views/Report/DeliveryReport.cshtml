@@ -1,0 +1,187 @@
+﻿@using Microsoft.Extensions.Configuration;
+@using Microsoft.AspNetCore.Http
+@inject IConfiguration Configuration;
+
+@{
+    ViewBag.Title = "Report";
+    string apiUrl = Configuration.GetValue<string>("WebAPIBaseUrl");
+}
+<style>
+    thead.clr {
+    background-color: #d7e1dc;
+}
+</style>
+<!-- PAGE-HEADER -->
+<div class="page-header">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="#"><i class="fe fe-file-text mr-1"></i>Report</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Delivery Report</li>
+    </ol>
+    <div class="ml-auto">
+        
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <div class="card">
+            <div class="card-body">
+                <form action="#" role="form" class="validate" id="formPost">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <div class="form-group">
+                                <label class="form-label">Hospital</label>
+                                <select class="form-control"  id="hospitalid"></select>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="form-group">
+                                <label class="form-label">Date</label>
+                                <input type="date" class="form-control" id="date">
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="form-group">
+                                <button type="button" id="btnShow" class="btn btn-radius btn-success" style="margin-top: 36px;">Show</button>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+    </div><!-- COL-END -->
+</div>
+<div class="row">
+	<div class="col-md-12">
+		<div class="card">
+			<div class="card-body">
+				<div class="clearfix">
+					<div class="float-left">
+						<h3 class="card-title mb-0"> Report</h3>
+					</div>
+					<div class="float-right">
+						<h3 class="card-title">Date: 22-05-2019</h3>
+                        <p id="date"></p>
+					</div>
+				</div>
+				<hr>
+				<div class="row">
+					<div class="col-lg-6 ">
+						<img src="/images/brand/yatri-LOGO.png" alt="Yatri" style="max-width: 180px;">
+					</div>
+					<div class="col-lg-6 text-right">
+						<p class="h5">Hoospital Address</p>
+						<address>
+							Street Address<br>
+							State, City<br>
+							Region, Postal Code<br>
+							abc@example.com
+						</address>
+					</div>
+				</div>
+				<div class="table-responsive push">
+					<table class="table table-bordered table-hover mb-0">
+						<thead>
+                            <tr>
+                                @*<td>#Sl No</td>*@
+                                <td>Bed No</td>
+                                <td>Patient Name</td>
+                                <td>Hospital Name</td>
+                                <td>Service Type</td>
+                                <td>Instruction</td>
+                                <td>FP Name</td>
+                                <td>Out From Kitchen</td>
+                                <td>TAT-Delivery</td>
+                                <td>Delivery To Patient</td>
+                                <td>TAT-Clearance</td>
+                                <td>Clearance</td>
+                                <td>Stastus</td>
+                                <td>Feedback</td>
+                            </tr>
+                        </thead>
+                        <tbody id="dietreport">
+                        </tbody>
+					</table> 
+				</div>
+                <div class="card-footer text-right">
+                    <button type="button" class="btn btn-primary mb-1" ><i class="si si-wallet"></i>Export Excel</button>
+	                <button type="button" class="btn btn-success mb-1" id="download-pdf-button"><i class="si si-paper-plane"></i> Export PDF</button>
+		            <button type="button" class="btn btn-info mb-1" onclick="javascript:window.print();"><i class="si si-printer"></i> Print </button>
+		        </div>
+			</div>
+		</div>
+        
+	</div><!-- COL-END -->
+</div>
+
+
+@section scripts{
+    <script>
+        GetHospitalList()
+        function GetHospitalList(Id) {
+            var opt = '';
+            $.ajax({
+                type: "GET",
+                url: "@apiUrl/api/Hospital/GetHospitalList",
+                contentType: "application/json; charset=utf-8",
+                headers: {
+                    "authorization": "Bearer @Context.Session.GetString("TokenTxt")"
+                },
+                dataType: "json",
+                success: function (res) {
+                    console.log(res)
+                    var options = [];
+                    options.push('<option value="">Select Hospital</option>');
+                    for (var i = 0; i < res.data.length; i++) {
+                        if (Id == res.data[i].hospitalMasterid) {
+                            opt = 'selected'
+                        } else {
+                            opt = '';
+                        }
+                        options.push('<option value="' + res.data[i].hospitalMasterid + '" ' + opt + '>' + res.data[i].hospitalName + '</option>');
+                    }
+                    $("#hospitalid").html(options.join(''));
+                },
+                error: function (data) {
+                    if (data.status == 401) {
+                        window.location.replace('/Message/TokenExpire');
+                    } else if (data.status == 403) {
+                        window.location.replace('/Message/Unauthorize');
+                    }
+                }
+            });
+        }
+
+        $("#btnShow").click(function (e) {
+
+            $.ajax({
+                type: "GET",
+                url: "@apiUrl/api/DIETMaster/GetDietReport/" + $('#hospitalid').val() /*+ "/" + $('#date').val()*/,
+                contentType: "application/json; charset=utf-8",
+
+                dataType: "json",
+                success: function (res) {
+                    var z = ''
+                    for (var i = 0; i < res.data.length; i++) {
+                        z = z + "<tr><td>" + res.data[i].bedNo + "</td><td>" + res.data[i].patientName + "</td><td>" + res.data[i].hospitalName + "</td><td>" + res.data[i].foodServiceTypeName + "</td><td>" + res.data[i].specialInstruction + "</td><td>" + res.data[i].foodProviderName + "</td><td>" + res.data[i].plateReciveDate + "</td><td>" + res.data[i].tat1 + "</td><td>" + res.data[i].plateDeliverDate + "</td><td>" + res.data[i].tat2 + "</td><td>" + res.data[i].plateCollectionDate + "</td><td>" + res.data[i].status + "</td><td>" + res.data[i].feedback + "</td></tr>"
+                    }
+                    $('#dietreport').html(z);
+                },
+                error: function (data) {
+                    if (data.status == 401) {
+                        window.location.replace('/Message/TokenExpire');
+                    } else if (data.status == 403) {
+                        window.location.replace('/Message/Unauthorize');
+                    }
+                }
+            });
+        });
+    </script>
+    <script>
+        n =  new Date();
+        y = n.getFullYear();
+        m = n.getMonth() + 1;
+        d = n.getDate();
+        document.getElementById("date").innerHTML = m + "/" + d + "/" + y;
+    </script>
+}
